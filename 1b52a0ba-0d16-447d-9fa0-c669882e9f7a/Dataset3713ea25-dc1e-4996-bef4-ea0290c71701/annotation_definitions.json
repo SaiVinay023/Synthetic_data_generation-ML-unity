@@ -1,0 +1,416 @@
+{
+  "version": "0.0.1",
+  "annotation_definitions": [
+    {
+      "id": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+      "name": "semantic segmentation",
+      "description": "pixel-wise semantic segmentation label",
+      "format": "PNG",
+      "spec": [
+        {
+          "label_name": "Kidney_Tumor_colour",
+          "pixel_value": {
+            "r": 1.0,
+            "g": 0.92156863212585449,
+            "b": 0.015686275437474251,
+            "a": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+      "name": "bounding box 3D",
+      "description": "Bounding box for each labeled object visible to the sensor",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "Kidney_Tumor_colour"
+        }
+      ]
+    },
+    {
+      "id": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+      "name": "bounding box",
+      "description": "Bounding box for each labeled object visible to the sensor",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "Kidney_Tumor_colour"
+        },
+        {
+          "label_id": 2,
+          "label_name": "Ligament"
+        }
+      ]
+    },
+    {
+      "id": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+      "name": "keypoints",
+      "description": "pixel coordinates of keypoints in a model, along with skeletal connectivity data",
+      "format": "json",
+      "spec": [
+        {
+          "template_id": "988e9248-e8d8-445a-84f6-58ca3563319e",
+          "template_name": "Coco",
+          "key_points": [
+            {
+              "label": "nose",
+              "index": 0,
+              "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "neck",
+              "index": 1,
+              "color": {
+                "r": 1.0,
+                "g": 0.33973819017410278,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_shoulder",
+              "index": 2,
+              "color": {
+                "r": 1.0,
+                "g": 0.569469690322876,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_elbow",
+              "index": 3,
+              "color": {
+                "r": 1.0,
+                "g": 0.82583808898925781,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_wrist",
+              "index": 4,
+              "color": {
+                "r": 0.64541411399841309,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_shoulder",
+              "index": 5,
+              "color": {
+                "r": 0.33125543594360352,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_elbow",
+              "index": 6,
+              "color": {
+                "r": 0.049070119857788086,
+                "g": 1.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_wrist",
+              "index": 7,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.16702723503112793,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_hip",
+              "index": 8,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.36656522750854492,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_knee",
+              "index": 9,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.58708095550537109,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_ankle",
+              "index": 10,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.76952242851257324,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_hip",
+              "index": 11,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_knee",
+              "index": 12,
+              "color": {
+                "r": 0.0,
+                "g": 0.63836884498596191,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_ankle",
+              "index": 13,
+              "color": {
+                "r": 0.0,
+                "g": 0.29786586761474609,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_eye",
+              "index": 14,
+              "color": {
+                "r": 0.45002555847167969,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_eye",
+              "index": 15,
+              "color": {
+                "r": 0.94718217849731445,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "right_ear",
+              "index": 16,
+              "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.603973388671875,
+                "a": 1.0
+              }
+            },
+            {
+              "label": "left_ear",
+              "index": 17,
+              "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.1192774772644043,
+                "a": 1.0
+              }
+            }
+          ],
+          "skeleton": [
+            {
+              "joint1": 0,
+              "joint2": 1,
+              "color": {
+                "r": 0.014684938825666904,
+                "g": 0.058949638158082962,
+                "b": 0.62264150381088257,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 1,
+              "joint2": 2,
+              "color": {
+                "r": 0.5283018946647644,
+                "g": 0.0,
+                "b": 0.074745394289493561,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 2,
+              "joint2": 3,
+              "color": {
+                "r": 0.78301888704299927,
+                "g": 0.32108741998672485,
+                "b": 0.077563188970088959,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 3,
+              "joint2": 4,
+              "color": {
+                "r": 0.96226418018341064,
+                "g": 0.855437159538269,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 1,
+              "joint2": 5,
+              "color": {
+                "r": 0.70196080207824707,
+                "g": 0.20392157137393951,
+                "b": 0.11461400985717773,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 5,
+              "joint2": 6,
+              "color": {
+                "r": 0.33748260140419006,
+                "g": 0.90566039085388184,
+                "b": 0.26059094071388245,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 6,
+              "joint2": 7,
+              "color": {
+                "r": 0.04214220866560936,
+                "g": 0.48113209009170532,
+                "b": 0.0340423583984375,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 1,
+              "joint2": 8,
+              "color": {
+                "r": 0.0,
+                "g": 0.76415097713470459,
+                "b": 0.22962166368961334,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 8,
+              "joint2": 9,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 0.33019208908081055,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 9,
+              "joint2": 10,
+              "color": {
+                "r": 0.0,
+                "g": 0.94339621067047119,
+                "b": 0.71313965320587158,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 1,
+              "joint2": 11,
+              "color": {
+                "r": 0.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 11,
+              "joint2": 12,
+              "color": {
+                "r": 0.0,
+                "g": 0.38122814893722534,
+                "b": 0.94339621067047119,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 12,
+              "joint2": 13,
+              "color": {
+                "r": 0.20773988962173462,
+                "g": 0.0,
+                "b": 0.71698117256164551,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 0,
+              "joint2": 14,
+              "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.88550186157226563,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 0,
+              "joint2": 15,
+              "color": {
+                "r": 1.0,
+                "g": 0.0,
+                "b": 0.81438302993774414,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 16,
+              "joint2": 14,
+              "color": {
+                "r": 0.57431650161743164,
+                "g": 0.0,
+                "b": 1.0,
+                "a": 1.0
+              }
+            },
+            {
+              "joint1": 17,
+              "joint2": 15,
+              "color": {
+                "r": 0.89622640609741211,
+                "g": 0.0,
+                "b": 0.1276668906211853,
+                "a": 1.0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4724 @@
+{
+  "version": "0.0.1",
+  "captures": [
+    {
+      "id": "9768bdbf-1a39-4be5-b6e8-a1773c06dcd5",
+      "sequence_id": "0eae8264-2689-4e2f-ba9d-ab86d085db3c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99222946,
+          -1.00762439,
+          0.0314226039
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_2.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "3eda4842-7da3-4567-80a9-589f9258fd49",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": -0.0007200308027677238,
+    "y": -0.035683587193489075,
+    "z": 0.084276273846626282
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "f626ad7f-3566-448f-8d66-685d53485a35",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 306.0
+}
+          ]
+        },
+        {
+          "id": "2b2e078d-237d-44b2-888f-1bc5c40f37a2",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_2.png"
+        },
+        {
+          "id": "5436ecd9-4fee-4beb-9340-8a263a94a344",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c2cbab6f-0d42-4609-9453-64667763b480",
+      "sequence_id": "4cf445e1-c4be-4266-b1cc-43087c1ad28a",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99215889,
+          -1.00634873,
+          0.03134521
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_3.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "26855e5c-c45c-46dc-b14b-4cecaf725674",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": -0.0004800411406904459,
+    "y": -0.035050053149461746,
+    "z": 0.085362240672111511
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "94819b6b-b83b-4c7f-9d1b-7b065e5d8645",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 306.0
+}
+          ]
+        },
+        {
+          "id": "fc2f5701-fe48-4918-abbc-935db78b579c",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_3.png"
+        },
+        {
+          "id": "7ba99fa6-893a-4991-a90a-2d2c4696d30e",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "bb21c45c-b3f5-4991-b754-f54f9d87a531",
+      "sequence_id": "63a24066-cbc9-4af8-8713-02524fbe4302",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99208832,
+          -1.00507307,
+          0.0312678181
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_4.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d46eb444-7bae-4cf0-a70b-52fcd268155e",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": -0.00024005144950933754,
+    "y": -0.034416522830724716,
+    "z": 0.086448207497596741
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "1e0f04c0-05ba-4be5-9de1-42a12e88f2c5",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 306.0
+}
+          ]
+        },
+        {
+          "id": "a3b0636e-f0ee-4392-a259-dc3671b06f66",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_4.png"
+        },
+        {
+          "id": "fb7df0eb-7e56-48fc-aa30-f9cbc6f40dc0",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "58f17b3d-a005-4afc-84e1-5b5c6c035736",
+      "sequence_id": "d1f4cfaa-5abb-4da9-a74d-5b738a7a3493",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99201775,
+          -1.00379741,
+          0.0311904252
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_5.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "da1e3203-eea5-4802-98e1-7eb3ebaef80d",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": -6.1766399994667154E-08,
+    "y": -0.033782992511987686,
+    "z": 0.087534166872501373
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "bdfd8942-d7f6-4dec-b0bd-996a78aa3f32",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 572.0,
+  "height": 306.0
+}
+          ]
+        },
+        {
+          "id": "4634566c-f7b8-4441-9de6-8b28eafa7b9b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_5.png"
+        },
+        {
+          "id": "d155454c-d985-4434-ba09-ea2745d1ec14",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "501b0b41-6152-4ff7-8a4b-8be26277b00f",
+      "sequence_id": "468cf584-4ce4-4279-944e-a662f4084512",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99194717,
+          -1.00252175,
+          0.0311130323
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_6.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d2ba7914-e96f-4e34-90d3-2aa4c9950370",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.00023992791830096394,
+    "y": -0.033149458467960358,
+    "z": 0.0886201336979866
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "47e53be6-22f1-4038-9051-71ca930467de",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 570.0,
+  "height": 306.0
+}
+          ]
+        },
+        {
+          "id": "aca1d2f9-fae0-4f11-b67d-40c9e70e8284",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_6.png"
+        },
+        {
+          "id": "c42bdbc8-b92c-4fb7-847b-77d82e0cac21",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "6a20eab3-8239-4e93-ad05-cca54616d9ee",
+      "sequence_id": "a3231db7-3b44-41de-87f0-7cd514bc7a28",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.9918766,
+          -1.00124609,
+          0.03103564
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_7.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ee780664-ea9c-40f9-bcc8-75ff5a538552",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.00047991762403398752,
+    "y": -0.032515928149223328,
+    "z": 0.089706100523471832
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "e5288479-6b57-4118-91a5-16a3d4ba3ae4",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 567.0,
+  "height": 306.0
+}
+          ]
+        },
+        {
+          "id": "c1245be6-b3fb-4c33-88f0-8cdbf910da06",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_7.png"
+        },
+        {
+          "id": "a9cf40c6-eb74-435d-b07c-e57a796e1ce7",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "bb338954-985f-4480-b228-14b53840b454",
+      "sequence_id": "56e8b995-0d96-43f5-99f7-b5c6213978e9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.991806,
+          -0.9999704,
+          0.0309582464
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_8.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "9ef0a6c2-ef67-4992-ab4c-273cc4ee8e2f",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.00071992253651842475,
+    "y": -0.031882371753454208,
+    "z": 0.090792112052440643
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "ffe70450-3325-439e-a0e5-90da06372f7e",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 565.0,
+  "height": 305.0
+}
+          ]
+        },
+        {
+          "id": "f9e260bf-5945-467e-b585-0d769a742b5b",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_8.png"
+        },
+        {
+          "id": "577e16dd-da23-4689-ac83-cfde275e2cec",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8807aa22-3159-422e-9cf9-f0e1aac29514",
+      "sequence_id": "7fbc454b-bf4e-4217-ab87-be91673c2ae0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99173546,
+          -0.998694658,
+          0.0308808535
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_9.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "24112223-d871-4197-930e-b0d0c55cd5f6",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.00095992750721052289,
+    "y": -0.031248811632394791,
+    "z": 0.091878131031990051
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "99384f0f-9760-4ae2-89b8-dfe688daec7d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 299.0
+}
+          ]
+        },
+        {
+          "id": "a70577c6-0ba5-4fd6-af48-0ba24a5761c5",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_9.png"
+        },
+        {
+          "id": "017e7c6d-8f92-4200-9f62-083699ab98d5",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "0347687b-3ab1-4f6a-89a4-c1cd79586f02",
+      "sequence_id": "56063238-739d-4b7e-8544-659355f78585",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99166489,
+          -0.99741894,
+          0.03080346
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_10.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "34e23380-7cf3-49b7-928f-23542f568f68",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0011999324196949601,
+    "y": -0.030615253373980522,
+    "z": 0.092964142560958862
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "cbba8aa1-6f53-4f99-bccc-740b8714eaf6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 293.0
+}
+          ]
+        },
+        {
+          "id": "dfb7a28a-72f7-4af9-bf9f-b5246df9c945",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_10.png"
+        },
+        {
+          "id": "7e60eaab-2693-48d4-991f-2cb28f286d47",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "b2c6c876-3839-4df2-8073-42a31bd5fbc5",
+      "sequence_id": "a352ed1f-17b2-4b8a-9f9c-9db1b1b6f2ba",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99159431,
+          -0.9961432,
+          0.0307260677
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_11.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "96b6de06-210e-4880-8309-eafcaf9e466d",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0014399373903870583,
+    "y": -0.029981695115566254,
+    "z": 0.094050154089927673
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "29be2d6d-3e93-4594-8bc6-fa4d981c01ab",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 290.0
+}
+          ]
+        },
+        {
+          "id": "fa1fb0a9-1449-4f17-9eda-f67219c72d19",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_11.png"
+        },
+        {
+          "id": "f866d43e-9c3a-4cff-b7ee-91226dffe436",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3e865cf0-425c-406c-8c3b-6ee4b375929d",
+      "sequence_id": "ddf3e7f1-8b58-489c-952d-ed1596d55cbc",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99152374,
+          -0.9948675,
+          0.0306486748
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_12.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "02734cc2-fdb4-4055-8fac-8080760cdedf",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0016799423610791564,
+    "y": -0.029348136857151985,
+    "z": 0.095136173069477081
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "7ec27aa6-9e1b-4aa8-92ef-6e4095e39983",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 283.0
+}
+          ]
+        },
+        {
+          "id": "b3a79278-b386-4b3d-8df6-7136e71be3b5",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_12.png"
+        },
+        {
+          "id": "ff1aedee-3c28-4c65-b205-12190bdcbd52",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "292ba59b-7c01-41c5-b014-cb238c3fdb0e",
+      "sequence_id": "cd64dd9b-4e19-4f12-9bed-58072d364fc9",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99145317,
+          -0.9935918,
+          0.0305712819
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_13.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "b189e61e-5562-4370-83f9-7af0d2e7c70d",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0019199472153559327,
+    "y": -0.028714578598737717,
+    "z": 0.096222184598445892
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "81baca2c-bf9c-45ec-be01-163fc21b9a9d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 278.0
+}
+          ]
+        },
+        {
+          "id": "df74b824-d0cb-4853-87f3-f17e4574513c",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_13.png"
+        },
+        {
+          "id": "f2c96225-d1ea-4263-9609-1457ff4c96b2",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "a7e888f4-887d-4d86-81cf-c8d02d0285e0",
+      "sequence_id": "fc2c537d-e763-4b00-99c0-de6c33e2a2ef",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.9913826,
+          -0.992316067,
+          0.030493889
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_14.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "efae3fb6-3681-4a76-85de-51b13991f7e9",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0021599521860480309,
+    "y": -0.028081020340323448,
+    "z": 0.0973082035779953
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "60ba2d8e-655b-4380-861b-c237cfc2ce1f",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 274.0
+}
+          ]
+        },
+        {
+          "id": "beb64cf3-6ed1-424b-9a74-04bea7f0035e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_14.png"
+        },
+        {
+          "id": "d5ad6ca8-be62-4642-9ac7-21e75cfef829",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "91c30108-f19b-40c0-9f85-132215d109fc",
+      "sequence_id": "67fa93fa-9ada-4283-a39b-38fdd9ea47e0",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.991312,
+          -0.991040349,
+          0.0304164961
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_15.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "838d7479-3711-4c58-b7fb-cdc873ab461f",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0023999570403248072,
+    "y": -0.02744746208190918,
+    "z": 0.098394215106964111
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "62e7fe4f-9cfc-414e-afcb-ad0b9b9657fb",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 0.0,
+  "y": 0.0,
+  "width": 575.0,
+  "height": 269.0
+}
+          ]
+        },
+        {
+          "id": "a0e75bef-8fee-4824-b51f-1ae83d94ea6d",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_15.png"
+        },
+        {
+          "id": "007d469a-d0de-4223-b692-3d8ecf45cfa0",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "6558299b-1a19-488a-88ba-29b5992e8fe3",
+      "sequence_id": "1354763f-855c-40af-862a-6233614fa93c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99124146,
+          -0.989764631,
+          0.0303391032
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_16.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "622d7d54-23c9-4f7b-b9ed-3a6b2c3859d5",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0026399621274322271,
+    "y": -0.026813903823494911,
+    "z": 0.099480234086513519
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "86a897c8-ff49-4311-9954-c4b4bad3f2bf",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 3.0,
+  "y": 0.0,
+  "width": 571.0,
+  "height": 265.0
+}
+          ]
+        },
+        {
+          "id": "f5fa62ff-2fdd-4567-96d5-4f0b273d53cf",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_16.png"
+        },
+        {
+          "id": "eaed4c45-d3b5-4172-814e-11a56018c398",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "56e49465-568f-4c3a-b343-6858ec098947",
+      "sequence_id": "f0c1a468-35a2-4ba4-a1f7-78a28b0d3523",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99117088,
+          -0.9884889,
+          0.03026171
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_17.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "229246dc-1e17-4d3b-8db7-e7e74bdea4b4",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0028799669817090034,
+    "y": -0.026180345565080643,
+    "z": 0.10056624561548233
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "09ba2771-8850-4cce-9da6-90fbd13a5b23",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 12.0,
+  "y": 0.0,
+  "width": 560.0,
+  "height": 260.0
+}
+          ]
+        },
+        {
+          "id": "a7b5cd1e-7ee0-449e-bbbc-5956db278511",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_17.png"
+        },
+        {
+          "id": "d6c1e089-54d8-4db4-adae-57c32f14a5f8",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "97116725-b41f-4c34-b322-c2e3235dce37",
+      "sequence_id": "2c5d68e6-dfe1-49e1-87bd-a26a239788c2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99110031,
+          -0.9872132,
+          0.0301843174
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_18.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1a892cd6-b9b1-4f3b-b593-214f3dd0901f",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0031199718359857798,
+    "y": -0.025546787306666374,
+    "z": 0.10165226459503174
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "2851be05-94cf-4501-8971-8b22365724bf",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 21.0,
+  "y": 0.0,
+  "width": 550.0,
+  "height": 256.0
+}
+          ]
+        },
+        {
+          "id": "68504689-26bd-4a20-9a95-65685a5f1feb",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_18.png"
+        },
+        {
+          "id": "8fac07b3-f6fd-4094-a76e-195f73e4f173",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "040fb8a9-3b7a-4f44-a30c-0a43d434c6f0",
+      "sequence_id": "65677508-881a-47e7-83e4-db919138d779",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99102974,
+          -0.9859375,
+          0.0301069245
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_19.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "30fc3401-f428-4838-a390-d97dda4e031d",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0033599769230931997,
+    "y": -0.024913229048252106,
+    "z": 0.10273827612400055
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "cc4d5e12-af6e-45e4-b2be-92d2baaf20db",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 29.0,
+  "y": 0.0,
+  "width": 540.0,
+  "height": 252.0
+}
+          ]
+        },
+        {
+          "id": "417b7f0c-35a7-44a3-a71d-891f12248228",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_19.png"
+        },
+        {
+          "id": "7dcc86a9-3e86-45a1-9a73-c680632146b7",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "15624fe5-4ce1-4e9f-b692-1d27e016d92f",
+      "sequence_id": "5a07ab83-073c-4098-bbe4-ff6520b32d9f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99095917,
+          -0.984661758,
+          0.0300295316
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_20.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "f148584d-6a8c-4dbe-8156-46d61e05f62c",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.003599981777369976,
+    "y": -0.024279670789837837,
+    "z": 0.10382429510354996
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "4ed16195-5285-44c8-9f53-42f657accec4",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 37.0,
+  "y": 0.0,
+  "width": 530.0,
+  "height": 248.0
+}
+          ]
+        },
+        {
+          "id": "f88621e5-278b-48c4-8c6f-f445ea4d084e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_20.png"
+        },
+        {
+          "id": "9d5e6d0a-714c-442c-af3c-e5eb251a7f6f",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "c1af1b6c-18c0-40f1-9f34-2b8a4bb0d07d",
+      "sequence_id": "cb8d499d-f116-48a6-95d0-a500f90452a8",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.9908886,
+          -0.98338604,
+          0.0299521387
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_21.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "cbc63449-e4fa-46a6-af25-ec7177951a84",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.003839986864477396,
+    "y": -0.023646112531423569,
+    "z": 0.10491030663251877
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "7910cc29-ccc5-4aa7-a6d1-1b4f38171dd5",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 44.0,
+  "y": 0.0,
+  "width": 522.0,
+  "height": 244.0
+}
+          ]
+        },
+        {
+          "id": "b5439004-72ac-43be-a58f-39e1dec48ce4",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_21.png"
+        },
+        {
+          "id": "ab73cc18-03ad-4ea3-bf7f-9009fcab0ec1",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "09ecdbf2-83ac-4e3f-81ae-49ef7cd627af",
+      "sequence_id": "4ad726c4-49bf-486e-b074-37c707a91f1d",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.990818,
+          -0.9821103,
+          0.0298747458
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_22.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "de8db109-0a3d-461a-ae6d-fc43f944b24e",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0040799914859235287,
+    "y": -0.0230125542730093,
+    "z": 0.10599632561206818
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "808ddbb7-6141-4b6f-bcf2-1b6806e92731",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 51.0,
+  "y": 0.0,
+  "width": 513.0,
+  "height": 240.0
+}
+          ]
+        },
+        {
+          "id": "fdf3be2b-7d84-4323-b59e-342028bb50b6",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_22.png"
+        },
+        {
+          "id": "8832998c-af6b-482a-b68e-2e4888ecbc36",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "26d9400e-92f8-4012-932f-dbe1b9042651",
+      "sequence_id": "07463ca2-1e66-4fe9-9941-5867c688d26b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99074745,
+          -0.9808346,
+          0.0297973529
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_23.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "51a486d6-dfa6-4118-a768-ac1550834a92",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0043199965730309486,
+    "y": -0.022378996014595032,
+    "z": 0.10708233714103699
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "1ec0ad01-1a31-43f7-9ff7-1ef8a66e919b",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 58.0,
+  "y": 0.0,
+  "width": 505.0,
+  "height": 237.0
+}
+          ]
+        },
+        {
+          "id": "bdc91371-0c3e-4248-b76f-449cb17e3402",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_23.png"
+        },
+        {
+          "id": "611984a4-4198-411f-ad53-2b4e6ce40c1d",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "95417b82-4813-42a9-a78b-0e92cd09f302",
+      "sequence_id": "7acb4f0a-0cac-4eb7-8f44-1afbc25dae5c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99067688,
+          -0.9795589,
+          0.02971996
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_24.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "aa06ad63-48db-4fd4-8322-33f12c824802",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0045600016601383686,
+    "y": -0.021745437756180763,
+    "z": 0.1081683561205864
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "e9a334e4-d29e-42dd-a2be-7b31fb0bcf4a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 64.0,
+  "y": 0.0,
+  "width": 497.0,
+  "height": 233.0
+}
+          ]
+        },
+        {
+          "id": "7ee3b068-c1e6-4ce5-b65f-79d9515b983d",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_24.png"
+        },
+        {
+          "id": "67cfe53e-ace9-4157-b709-ea2b61f03f9c",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "29362a7d-a72e-497d-9e29-1cbe3e22feca",
+      "sequence_id": "9c55afef-7a04-4dad-bb96-e766a12453f4",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99060631,
+          -0.978283167,
+          0.029642567
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_25.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "351dbd0d-6a89-46fc-820a-7fc4a8d6ae34",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0048000067472457886,
+    "y": -0.021111879497766495,
+    "z": 0.10925436764955521
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "4aec7724-97b0-480c-92ca-88a65cf9fc6d",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 70.0,
+  "y": 0.0,
+  "width": 490.0,
+  "height": 230.0
+}
+          ]
+        },
+        {
+          "id": "1a416ac0-0ed3-485b-b3bb-f95b8b2f80f4",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_25.png"
+        },
+        {
+          "id": "60f4397b-5f9b-4a13-8799-a644a3ef916e",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e804bbac-f2a2-4002-8314-a8a3d27aabe3",
+      "sequence_id": "9f0d9f2c-2dd5-4a4f-9558-e1e415c96937",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99053574,
+          -0.977007449,
+          0.0295651741
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_26.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "d21b9ac8-3bd6-4b5c-a5f1-72c894c23c88",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0050400113686919212,
+    "y": -0.020478321239352226,
+    "z": 0.11034038662910461
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "e8a5ace9-cd60-4035-990c-c6ca74d30861",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 76.0,
+  "y": 0.0,
+  "width": 482.0,
+  "height": 226.0
+}
+          ]
+        },
+        {
+          "id": "1206beae-848c-4843-9296-4957dff4ac21",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_26.png"
+        },
+        {
+          "id": "d69caa9a-e980-4e87-a47d-78958f168582",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d8473899-bd54-455c-9c31-d701620eb92d",
+      "sequence_id": "80ed73ba-b416-4dfe-b257-073981569c3e",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99046516,
+          -0.97573173,
+          0.0294877812
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_27.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1a2f620c-e235-4a27-a403-dfc6df0f2c4f",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0052800164557993412,
+    "y": -0.019844762980937958,
+    "z": 0.11142639815807343
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "7d8c51ae-399b-4317-b5cc-19d6205690c5",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 81.0,
+  "y": 0.0,
+  "width": 476.0,
+  "height": 223.0
+}
+          ]
+        },
+        {
+          "id": "5b910549-c91a-4d67-9851-617db5cc9aa3",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_27.png"
+        },
+        {
+          "id": "4366e548-a42a-4257-8f87-9594e8176335",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d8cb5295-adc6-4912-9e26-def31078a68c",
+      "sequence_id": "2be2dbe2-4ee4-44e4-900e-6eb1c6b7b73f",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99039459,
+          -0.974456,
+          0.0294103883
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_28.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "e05e58ad-a92f-41e8-ae2d-4edfb6ccabf8",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0055200215429067612,
+    "y": -0.019211204722523689,
+    "z": 0.11251241713762283
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "2e874f10-0713-41f2-9f4f-2cfd2d591467",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 87.0,
+  "y": 0.0,
+  "width": 469.0,
+  "height": 220.0
+}
+          ]
+        },
+        {
+          "id": "be061cb6-4393-4b02-a6f2-28593096b832",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_28.png"
+        },
+        {
+          "id": "5e7e80ab-8ecf-4362-b851-306d0ef3d0ae",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "3132795f-6114-4bd7-9a54-4b01e7e9a1d9",
+      "sequence_id": "f108a09b-10a0-4acd-a411-3afff56702fa",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.990324,
+          -0.9731803,
+          0.0293329954
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_29.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "b912fa1f-d0f1-4d48-92a0-9d11f0f8dadc",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0057600261643528938,
+    "y": -0.018577646464109421,
+    "z": 0.11359842866659164
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "364e54f0-6719-4d5b-aa4b-4071c827d9a0",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 92.0,
+  "y": 0.0,
+  "width": 462.0,
+  "height": 217.0
+}
+          ]
+        },
+        {
+          "id": "c068fd9d-eedb-4ac0-904c-e5575d3307f5",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_29.png"
+        },
+        {
+          "id": "d1296b09-d0cf-4919-8b3a-f7d959dd71cb",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2f1c903d-7e9b-4544-ac46-1f6cd2e2eb6f",
+      "sequence_id": "ceebe443-5a9d-41e4-9f04-1cf72cf7008b",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99025345,
+          -0.9719046,
+          0.0292556025
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_30.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "a3a43dda-c587-4e49-a3e1-937a1ea11ec4",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0060000312514603138,
+    "y": -0.017944088205695152,
+    "z": 0.11468444764614105
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "9d4c6abd-c0da-407b-bdaa-69e0c30c9690",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 97.0,
+  "y": 0.0,
+  "width": 456.0,
+  "height": 214.0
+}
+          ]
+        },
+        {
+          "id": "378a8408-895c-4f73-be69-a2876d52bc20",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_30.png"
+        },
+        {
+          "id": "9a31b47c-8a0e-4776-87da-4de85c0d45c1",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "e15e104d-09d0-43f9-8f19-f296a8c0a4e9",
+      "sequence_id": "b697cec1-0e1c-4671-95f6-1d605b9207d2",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99018288,
+          -0.970628858,
+          0.02917821
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_31.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "30910746-6a2f-4c08-ba0a-4e53f3bb73ee",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0062400363385677338,
+    "y": -0.017310529947280884,
+    "z": 0.11577045917510986
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "b697c95f-8d99-4cf5-b035-1c49e0005c78",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 101.0,
+  "y": 0.0,
+  "width": 450.0,
+  "height": 211.0
+}
+          ]
+        },
+        {
+          "id": "1e39a3df-3735-4776-bb9c-c9a008566e74",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_31.png"
+        },
+        {
+          "id": "d946933d-662d-4fed-9447-f5709ebe9328",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "085c09e1-5d8c-4a3c-939d-392f318dcee0",
+      "sequence_id": "602af61d-eaed-4a7d-a271-95614b396b52",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.9901123,
+          -0.969353139,
+          0.0291008167
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_32.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1d509f4e-38ea-43d8-b753-9657cd60b70e",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0064800409600138664,
+    "y": -0.016676971688866615,
+    "z": 0.11685647070407867
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "44f31c1c-014c-4e24-9baf-93ef15b1f956",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 106.0,
+  "y": 0.0,
+  "width": 444.0,
+  "height": 208.0
+}
+          ]
+        },
+        {
+          "id": "8b7bae42-0a69-40c3-b984-0e8e3064d750",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_32.png"
+        },
+        {
+          "id": "9f390d28-c1f7-4ff9-92f4-446a02684947",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "edb4a3c5-ce88-4f2c-a20a-5193aebacf88",
+      "sequence_id": "8c25a956-f1ea-4d6b-baad-28ef66c31e62",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.99004173,
+          -0.9680774,
+          0.0290234238
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_33.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "83e93011-94be-4c04-b0da-c7d89fcadcf8",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0067200460471212864,
+    "y": -0.016043413430452347,
+    "z": 0.11794248968362808
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "1bcb4c5e-1ed6-4f92-8a97-3375e6ad6324",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 110.0,
+  "y": 0.0,
+  "width": 439.0,
+  "height": 205.0
+}
+          ]
+        },
+        {
+          "id": "e6d1fe59-3b01-46b3-ba76-3e00c69c18c9",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_33.png"
+        },
+        {
+          "id": "f493cca6-4227-463c-9693-13d4a6e4721e",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "d9ffa99b-4049-4adc-8672-cd97bc008686",
+      "sequence_id": "0760960b-469f-49cf-9a68-253b18d9bf07",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.98997116,
+          -0.9668017,
+          0.02894603
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_34.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ccfb1a5d-1631-4ce3-ad45-756296a78062",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0069600511342287064,
+    "y": -0.015409855172038078,
+    "z": 0.11902850121259689
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "05e713f6-f6d9-4bea-8a5a-fcd0ae86d4de",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 115.0,
+  "y": 0.0,
+  "width": 432.0,
+  "height": 202.0
+}
+          ]
+        },
+        {
+          "id": "8dbcd636-0f59-4a12-8df2-106eb7fdc9ec",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_34.png"
+        },
+        {
+          "id": "26275ab4-84a1-4296-8252-32ac94066b1f",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "0c7a2720-39fb-4d80-bbbb-18ff5133e4fc",
+      "sequence_id": "cca7fce7-baf3-4d92-bf9f-73240fad7036",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.98990059,
+          -0.965526,
+          0.028868638
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_35.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "ab5c586c-a3f4-4490-a163-37bdeb1cb984",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.007200055755674839,
+    "y": -0.01477629691362381,
+    "z": 0.1201145201921463
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "02d7a6a9-a298-4f00-bfe9-ab1916cdc662",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 119.0,
+  "y": 0.0,
+  "width": 427.0,
+  "height": 200.0
+}
+          ]
+        },
+        {
+          "id": "5d24b212-6baa-4a04-8f69-e0be7978d613",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_35.png"
+        },
+        {
+          "id": "1e8efcc4-3203-4796-b0bf-37b3df25f162",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "8411214d-fb29-498c-a902-ede9f65c4640",
+      "sequence_id": "ededdfe5-10c9-4fa7-8e61-aa60804ba3cc",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.98983,
+          -0.964250267,
+          0.0287912451
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_36.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "af6f231f-7089-4a3d-af7e-59b2a588d6a2",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.007440060842782259,
+    "y": -0.014142738655209541,
+    "z": 0.12120053172111511
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "bf666919-ed7d-401c-90df-81b20f5296d2",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 123.0,
+  "y": 0.0,
+  "width": 422.0,
+  "height": 197.0
+}
+          ]
+        },
+        {
+          "id": "6c368495-e726-4582-a0c3-96f19c777f61",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_36.png"
+        },
+        {
+          "id": "cb61fc3b-06a2-4386-8d00-147556f4116e",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "9960b971-b861-49f6-b17d-c4c0bc13799e",
+      "sequence_id": "1d797530-f3c2-4cdc-9aa4-768967ddc294",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.98975945,
+          -0.962974548,
+          0.0287138522
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_37.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "b33ff145-0d39-4cd1-86df-f26cc772db83",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.007680065929889679,
+    "y": -0.013509180396795273,
+    "z": 0.12228655070066452
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "0ce20f06-d0e0-4880-b94e-f6cc82f29c9a",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 127.0,
+  "y": 0.0,
+  "width": 417.0,
+  "height": 194.0
+}
+          ]
+        },
+        {
+          "id": "1d1d3413-3701-48fa-90ba-a9cb551d41b2",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_37.png"
+        },
+        {
+          "id": "8c7c1a33-dd44-4d92-b8a5-9c42f06fc78a",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "2d09640f-fe29-446a-bfa2-35157fb3570a",
+      "sequence_id": "d6112ba6-a45e-4b55-b13b-785ede98ed8c",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.98968887,
+          -0.96169883,
+          0.02863646
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_38.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "8d89bb53-6b32-4d0d-a4a4-a3dd3dd301e1",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0079200705513358116,
+    "y": -0.012875622138381004,
+    "z": 0.12337256222963333
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "3258b249-d8e3-4486-b751-a9caa8ceebf2",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 130.0,
+  "y": 0.0,
+  "width": 412.0,
+  "height": 192.0
+}
+          ]
+        },
+        {
+          "id": "2340e988-6055-4f64-ac8b-77b8b9cfaf3a",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_38.png"
+        },
+        {
+          "id": "02931cd3-4144-4d4e-9088-e7b9d01d9bcf",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "685caf44-d51e-48c5-b38c-544c93902c0d",
+      "sequence_id": "e2441639-a65c-4bd6-9520-4c688f8dd831",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.9896183,
+          -0.9604231,
+          0.0285590664
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_39.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "1c772d5c-2453-4491-9a1d-917df90c18ac",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0081600761041045189,
+    "y": -0.012242063879966736,
+    "z": 0.12445858120918274
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "808a37ae-ee51-4a9e-9e25-153dfa6b0561",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 134.0,
+  "y": 0.0,
+  "width": 407.0,
+  "height": 189.0
+}
+          ]
+        },
+        {
+          "id": "b0a70f78-587a-4371-9cbe-516a9b451f7e",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_39.png"
+        },
+        {
+          "id": "8643516d-d3c1-4829-8b99-aa261dd9bc40",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    },
+    {
+      "id": "85b61df1-2834-4479-a4ea-bb6299f6a2e1",
+      "sequence_id": "0d4d4dde-0008-4788-acb2-e8a5e349aa31",
+      "step": 0,
+      "timestamp": 0.0,
+      "sensor": {
+        "sensor_id": "54362bc0-8263-48ff-8b6d-87e7d61bc459",
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "modality": "camera",
+        "translation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "camera_intrinsic": [
+          [
+            1.15227866,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            2.16522956,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            -1.00002
+          ]
+        ]
+      },
+      "ego": {
+        "ego_id": "bdbdc70b-ef59-488d-a6b3-f025a375ff2a",
+        "translation": [
+          1.98954773,
+          -0.9591474,
+          0.0284816734
+        ],
+        "rotation": [
+          0.4888342,
+          0.32499513,
+          -0.6973178,
+          0.411299467
+        ],
+        "velocity": null,
+        "acceleration": null
+      },
+      "filename": "RGB3c84e85a-8ca1-42ee-b387-57863b12b2a1/rgb_40.png",
+      "format": "PNG",
+      "annotations": [
+        {
+          "id": "c15a8e05-03c3-4a2e-9c9d-d92d51f5c8d3",
+          "annotation_definition": "0bfbe00d-00fa-4555-88d1-471b58449f5c",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "translation": {
+    "x": 0.0084000807255506516,
+    "y": -0.011608505621552467,
+    "z": 0.12554459273815155
+  },
+  "size": {
+    "x": 0.10568109899759293,
+    "y": 0.14261823892593384,
+    "z": 0.28484213352203369
+  },
+  "rotation": {
+    "x": 0.23430387675762177,
+    "y": 0.74413794279098511,
+    "z": -0.39122980833053589,
+    "w": -0.48815959692001343
+  },
+  "velocity": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "acceleration": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
+          ]
+        },
+        {
+          "id": "38d02ea0-4bbe-4202-951b-cf23a328edd6",
+          "annotation_definition": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+          "values": [
+            {
+  "label_id": 1,
+  "label_name": "Kidney_Tumor_colour",
+  "instance_id": 2,
+  "x": 138.0,
+  "y": 0.0,
+  "width": 402.0,
+  "height": 187.0
+}
+          ]
+        },
+        {
+          "id": "c1a18d8f-cc2d-4b9e-bfd9-7049aba75de7",
+          "annotation_definition": "12f94d8d-5425-4deb-9b21-5e53ad957d66",
+          "filename": "SemanticSegmentation49928acb-1227-4b38-a489-21723cbdc115/segmentation_40.png"
+        },
+        {
+          "id": "b87da49e-ea88-4708-a086-c712a6f474c7",
+          "annotation_definition": "8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2",
+          "values": []
+        }
+      ]
+    }
+  ]
+}
