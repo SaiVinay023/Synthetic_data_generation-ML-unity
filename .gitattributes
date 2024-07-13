@@ -1,1 +1,2 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/Models/Kidney_Tumor_colour.fbx filter=lfs diff=lfs merge=lfs -text
