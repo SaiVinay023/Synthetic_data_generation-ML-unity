@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.kinetix.packagemanager": {
+      "version": "https://github.com/git-kinetix/kinetix-unity-sdk-packagemanager.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f2bc8cb975d5653070b153984ceead9d66d4a246"
+    },
     "com.unity.burst": {
       "version": "1.4.6",
       "depth": 1,
@@ -10,7 +17,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
-      "version": "2.6.10",
+      "version": "2.6.17",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -132,6 +139,20 @@
       "dependencies": {
         "com.unity.render-pipelines.core": "10.6.0"
       },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.scripting.python": {
+      "version": "4.0.0-exp.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.scripting.python.windows": {
+      "version": "1.0.0-exp.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.searcher": {

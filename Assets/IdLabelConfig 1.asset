@@ -15,5 +15,7 @@ MonoBehaviour:
   m_LabelEntries:
   - label: Kidney_Tumor_colour
     id: 1
+  - label: Ligament
+    id: 2
   autoAssignIds: 1
   startingLabelId: 1

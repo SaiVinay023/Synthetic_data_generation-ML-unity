@@ -13,11 +13,5 @@ MonoBehaviour:
   m_Name: SemanticSegmentationLabelConfig
   m_EditorClassIdentifier: 
   m_LabelEntries:
-  - label: kidney
-    color: {r: 1, g: 1, b: 1, a: 1}
-  - label: Tool
-    color: {r: 0, g: 0, b: 1, a: 1}
-  - label: Fat
-    color: {r: 0, g: 1, b: 0, a: 1}
-  - label: Ligament
-    color: {r: 1, g: 0, b: 0, a: 1}
+  - label: Kidney_Tumor_colour
+    color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
