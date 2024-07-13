@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "sensors": [
+    {
+      "id": "dca2398f-925b-4c94-9a02-165d2afa6845",
+      "ego_id": "e2e566aa-cbb0-4070-b8f5-5b3d3f49dd0d",
+      "modality": "camera",
+      "description": ""
+    }
+  ]
+}

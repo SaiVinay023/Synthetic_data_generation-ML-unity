@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "annotation_definitions": [
+    {
+      "id": "f9f22e05-443f-4602-a422-ebe4ea9b55cb",
+      "name": "bounding box",
+      "description": "Bounding box for each labeled object visible to the sensor",
+      "format": "json",
+      "spec": [
+        {
+          "label_id": 1,
+          "label_name": "Kidney_Tumor_colour"
+        },
+        {
+          "label_id": 2,
+          "label_name": "Ligament"
+        }
+      ]
+    }
+  ]
+}
