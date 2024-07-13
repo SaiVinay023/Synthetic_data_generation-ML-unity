@@ -1549,6 +1549,7 @@ MonoBehaviour:
   - id: 0
   - id: 1
   - id: 2
+  - id: 3
   description: 
   captureRgbImages: 1
   firstCaptureFrame: 0
@@ -1562,14 +1563,14 @@ MonoBehaviour:
     00000000:
       type: {class: SemanticSegmentationLabeler, ns: UnityEngine.Perception.GroundTruth, asm: Unity.Perception.Runtime}
       data:
-        enabled: 0
+        enabled: 1
         annotationId: 12f94d8d-5425-4deb-9b21-5e53ad957d66
         labelConfig: {fileID: 11400000, guid: 1a2f289ed15db1b41ad0cc7d37f8a626, type: 2}
         m_TargetTextureOverride: {fileID: 0}
     00000001:
       type: {class: BoundingBox3DLabeler, ns: UnityEngine.Perception.GroundTruth, asm: Unity.Perception.Runtime}
       data:
-        enabled: 0
+        enabled: 1
         annotationId: 0bfbe00d-00fa-4555-88d1-471b58449f5c
         idLabelConfig: {fileID: 11400000, guid: 11a98b18f6804a84287f0104580aa13e, type: 2}
         visualizationColor: {r: 0, g: 1, b: 0, a: 1}
@@ -1579,6 +1580,15 @@ MonoBehaviour:
         enabled: 1
         annotationId: f9f22e05-443f-4602-a422-ebe4ea9b55cb
         idLabelConfig: {fileID: 11400000, guid: f61c1a5a38d2a7246985901dc273cd26, type: 2}
+    00000003:
+      type: {class: KeypointLabeler, ns: UnityEngine.Perception.GroundTruth, asm: Unity.Perception.Runtime}
+      data:
+        enabled: 1
+        activeTemplate: {fileID: 11400000, guid: a29b79d8ce98945a0855b1addec08d86, type: 2}
+        annotationId: 8b3ef246-daa7-4dd5-a0e8-a943f6e7f8c2
+        idLabelConfig: {fileID: 11400000, guid: 11a98b18f6804a84287f0104580aa13e, type: 2}
+        objectFilter: 2
+        animationPoseConfigs: []
 --- !u!108 &965139827
 Light:
   m_ObjectHideFlags: 0
