@@ -95,6 +95,8 @@ The simulation is not fully automated, so you may need to add or adjust componen
 
   Adjust lighting randomizers to control the lighting conditions in your simulations.
 
+**  Note: You can find the sample data sets in the repo for your reference which were taken in different environmental conditions.
+
 For more detailed guidance on using and customizing the Perception package, refer to the [Perception Package Tutorial](https://github.com/Unity-Technologies/com.unity.perception/blob/main/com.unity.perception/Documentation%7E/Tutorial/Phase1.md).
 
 Contributing
